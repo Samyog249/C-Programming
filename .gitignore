@@ -1,0 +1,37 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+*.so
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# Data files
+*.dat
+*.bin
+
+# Text output files (generated)
+*.txt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/
+bin/
