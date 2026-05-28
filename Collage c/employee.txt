@@ -1,0 +1,5 @@
+Employee Details:
+Name: Ram
+ID: 20
+Address: Bhaktapur
+Salary: 30000.00
